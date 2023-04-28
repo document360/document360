@@ -3,8 +3,11 @@ Welcome to our GitHub org! At Document360, we understand the importance of well-
 Our API documentation platform is designed to meet the needs of different types of developers:
 
 👨‍💻 Developers who want to create API documentation for their own APIs
+
 🧑‍🏫 Technical writers who want to create API documentation for their organization's APIs
+
 👨‍👩‍👧‍👦 End-users who want to use APIs built on Document360.
+
 
 We offer a range of features to make API documentation easy and efficient, including:
 
